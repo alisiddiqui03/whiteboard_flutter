@@ -5,14 +5,14 @@ homepage: https://github.com/netless-io/Whiteboard-Flutter
 repository: https://github.com/netless-io/Whiteboard-Flutter
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.0.6 <4.0.0'
   flutter: ">=1.22.2"
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_inappwebview: ^5.4.4+3
-  webview_flutter: ^3.0.0
+  webview_flutter: ^4.8.0
 
 dev_dependencies:
   flutter_test:
